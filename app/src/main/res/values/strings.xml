@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Healthenics</string>
+
+    <string name="searchbar_hint">Masukkan Nama Makanan</string>
+    <string name="this_activity">Ini adalah menu activity</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="profile_tab_title">Profile</string>
+    <string name="follower_tab_title">Followers</string>
+    <string name="following_tab_title">Following</string>
+    <string name="fav_empty">You can add users to your favorite for fast access to their accounts</string>
+    <string name="favorite">Favorites</string>
+    <string name="theme_header">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="key_dark_mode">dark_mode</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="connecting">Connecting...</string>
+    <string name="disconnected">Please check your internet connection</string>
+    <string name="refreshing">Trying...</string>
+    <string name="swipe">Swipe down to Refresh</string>
+    <string name="nav_desc">For First and Final Submission (mhaikalmusyaffa)</string>
+    <string name="dark">Dark Mode</string>
+    <string name="scan">Scan Food</string>
+    <string name="search">Search Usename</string>
+    <string name="no_data">There is no data :(</string>
+    <string name="home">Home</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Pilih Gambar dari Gallery</string>
+    <string name="analyze">Analisis!</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="classifier_failed">Detail Hasil Analisis</string>
+    <string name="failed">Gagal Mengklasifikasi</string>
+    <string name="insert_image">Silahkan Masukkan Gambar</string>
+    <string name="ucrop_null">UCrop result URI is null</string>
+    <string name="error_msg">Error</string>
+    <string name="error_crop">Gagal Crop Gambar</string>
+    <string name="details_tab_title">Details</string>
+    <string name="nutrition_tab_title">Nutritions</string>
+    <string name="food_name_and_serving">Food Name ( 1 Serving )</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="calories">Kalori</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="bmi">Calorie Calculator</string>
+
+    <string-array name="activity_levels">
+        <item>Sangat Sedikit</item>
+        <item>Ringan</item>
+        <item>Sedang</item>
+        <item>Berat</item>
+        <item>Sangat Berat</item>
+    </string-array>
+</resources>

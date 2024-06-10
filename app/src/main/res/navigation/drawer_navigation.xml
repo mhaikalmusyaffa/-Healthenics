@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.haikal.healthenics.fragment.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.haikal.healthenics.fragment.SettingFragment"
+        android:label="@string/dark"
+        tools:layout="@layout/fragment_setting" />
+
+    <fragment
+        android:id="@+id/nav_bmi"
+        android:name="com.haikal.healthenics.fragment.CalorieCalculatorFragment"
+        android:label="@string/bmi"
+        tools:layout="@layout/fragment_calorie_calculator" />
+
+    <fragment
+        android:id="@+id/nav_scan"
+        android:name="com.haikal.healthenics.fragment.ScanFragment"
+        android:label="@string/scan"
+        tools:layout="@layout/fragment_scan" />
+
+
+
+</navigation>
